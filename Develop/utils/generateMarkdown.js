@@ -49,10 +49,6 @@ function renderLicenseSection(license) {
 function generateMarkdown(answer) {
   return `
   # ${answer.title}
-  ## ${renderLicenseSection(answer.license)} ${renderLicenseBadge(
-    answer.license
-  )}
-  ## ${renderLicenseLink(answer.license)}
   ## Description
    ${answer.description}
   ## Table of Contents:
@@ -78,6 +74,10 @@ function generateMarkdown(answer) {
    * Github: https://github.com/${answer.askMe}
    or
   * Email: ${answer.email}
+  ## ${renderLicenseSection(answer.license)} ${renderLicenseBadge(
+    answer.license
+  )}
+  ${renderLicenseLink(answer.license)}
 `;
 }
 

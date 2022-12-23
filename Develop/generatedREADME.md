@@ -1,9 +1,7 @@
 
-  # yo mama
-  ## License: Apache 2.0  ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-  ## http://www.apache.org/licenses/LICENSE-2.0
+  # sample
   ## Description
-  this does nothing
+   sample
   ## Table of Contents:
   * [Description](#description)
   * [Installation](#installation)
@@ -14,16 +12,18 @@
   * [Questions](#questions)
   ## Installation:
   You must install the following for this app to function:
-   no steps
+   sample
   ## Usage:
-   no use
+   sample
   ## Contributors:
-   no guidelines
+   sample
   ## Tests:
    Run the following commands in your terminal to test this app:
-  no test
+  sample
   ## Questions:
    If you have any questions, you may contact me at either
-   * Github: https://github.com/yo mamamam
+   * Github: https://github.com/sample
    or
-  * Email: noemail
+  * Email: sample@sample.com
+  ## License: Apache 2.0  ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+  http://www.apache.org/licenses/LICENSE-2.0
