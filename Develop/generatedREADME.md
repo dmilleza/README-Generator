@@ -22,8 +22,9 @@
   sample
   ## Questions:
    If you have any questions, you may contact me at either
-   * Github: https://github.com/sample
+   * Github: https://github.com/sample!
    or
-  * Email: sample@sample.com
-  ## License: Apache 2.0  ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-  http://www.apache.org/licenses/LICENSE-2.0
+  * Email: sample@gmail.com
+  ## License
+  MIT  ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
+  https://choosealicense.com/licenses/mit/
