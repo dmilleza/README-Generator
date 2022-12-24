@@ -9,3 +9,8 @@ A command-line application that accepts user input in order to generate a high-q
 * Node.js
 * NPM Inquirer
 
+## Installation
+
+User must clone this repository onto their computer is recommended for installation. The use of Node.js with "Inquirer Version 8.2.4" is required for the application to function. 
+
+## <a href="https://drive.google.com/file/d/179yGkMyWESUnpmAoYuSBJxRiRNTRSgQt/view">Link to application showcase</a>

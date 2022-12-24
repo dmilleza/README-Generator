@@ -40,7 +40,7 @@ function renderLicenseSection(license) {
   if (license === "None") {
     licenseSection = "";
   } else {
-    licenseSection = `License: ${license} `;
+    licenseSection = `${license} `;
   }
   return licenseSection;
 }
@@ -74,7 +74,8 @@ function generateMarkdown(answer) {
    * Github: https://github.com/${answer.askMe}
    or
   * Email: ${answer.email}
-  ## ${renderLicenseSection(answer.license)} ${renderLicenseBadge(
+  ## License
+  ${renderLicenseSection(answer.license)} ${renderLicenseBadge(
     answer.license
   )}
   ${renderLicenseLink(answer.license)}
